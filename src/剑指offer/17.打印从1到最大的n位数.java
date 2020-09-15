@@ -34,6 +34,7 @@ class solution17 {
         int[] res;
         int nine =0, count=0,start,n;
         char[] num ,loop = {'0','1','2','3','4','5','6','7','8','9'};
+//       char[] num ,loop = {'0','1','2','3'};
 
         public int[] printNumbers(int n) {
             this.n = n;
@@ -48,6 +49,8 @@ class solution17 {
             if(x==n){
                 String s = String.valueOf(num).substring(start);
                 if(!s.equals("0")) res[count++] = Integer.parseInt(s);
+                System.out.println("nine="+nine);
+                System.out.println("s="+s);
                 if(n-start ==nine)start--;
                 return;
             }
