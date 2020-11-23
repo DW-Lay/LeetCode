@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ad99a69-1065-4baa-b68d-64c55436143f" name="Default Changelist" comment="17">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/_628三个数最大的乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/面试题17_10主要元素.java" afterDir="false" />
+    <list default="true" id="9ad99a69-1065-4baa-b68d-64c55436143f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/IntToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/TestComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/剑指offer/solution15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/剑指offer/solution15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/17.打印从1到最大的n位数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/17.打印从1到最大的n位数.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +29,13 @@
     <setting file="file://$PROJECT_DIR$/src/剑指offer/17.打印从1到最大的n位数.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/10.斐波那契数列.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1h4O3BhMQILITiTc8HSZOpjgHgA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,7 +45,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2724434" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution17">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.Solution" />
+  <component name="RunManager" selected="Application.TestComparator">
+    <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序刷题.TestComparator" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
+          <option name="PATTERN" value="顺序刷题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestComparator" />
         <item itemvalue="Application.solution17" />
         <item itemvalue="Application.solution15" />
         <item itemvalue="Application.fibnaqi" />
         <item itemvalue="Application.solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +150,14 @@
       <updated>1599266695464</updated>
       <workItem from="1599266698707" duration="7694000" />
       <workItem from="1599317159283" duration="13000" />
-      <workItem from="1600132797179" duration="4391000" />
+      <workItem from="1600132797179" duration="5056000" />
+      <workItem from="1601433717966" duration="1277000" />
+      <workItem from="1604825537873" duration="1952000" />
+      <workItem from="1605147106432" duration="1493000" />
+      <workItem from="1605487621449" duration="1942000" />
+      <workItem from="1605685984133" duration="1382000" />
+      <workItem from="1605751842504" duration="2326000" />
+      <workItem from="1606098885654" duration="2894000" />
     </task>
     <task id="LOCAL-00001" summary="17">
       <created>1599291644422</created>
@@ -152,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599291644422</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="17">
+      <created>1600143674314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600143674314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加了一个数组的题目">
+      <created>1605147288683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605147288683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +201,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17" />
-    <option name="LAST_COMMIT_MESSAGE" value="17" />
+    <MESSAGE value="增加了一个数组的题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了一个数组的题目" />
   </component>
 </project>
