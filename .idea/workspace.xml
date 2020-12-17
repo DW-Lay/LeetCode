@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad99a69-1065-4baa-b68d-64c55436143f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/顺序刷题/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/顺序刷题/TestComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/BuyStock_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/BuyStock_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +27,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/剑指offer/11.旋转数组中的最小数字.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/17.打印从1到最大的n位数.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/顺序刷题/BuyStock_1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/10.斐波那契数列.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
@@ -62,7 +63,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestComparator">
+  <component name="RunManager" selected="Application.BuyStock_1">
+    <configuration name="BuyStock_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序刷题.BuyStock_1" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序刷题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="顺序刷题.TestComparator" />
       <module name="LeetCode" />
@@ -78,19 +92,6 @@
     </configuration>
     <configuration name="fibnaqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="剑指offer.fibnaqi" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuyStock_1" />
         <item itemvalue="Application.TestComparator" />
         <item itemvalue="Application.solution17" />
         <item itemvalue="Application.solution15" />
         <item itemvalue="Application.fibnaqi" />
-        <item itemvalue="Application.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,8 @@
       <workItem from="1605487621449" duration="1942000" />
       <workItem from="1605685984133" duration="1382000" />
       <workItem from="1605751842504" duration="2326000" />
-      <workItem from="1606098885654" duration="2894000" />
+      <workItem from="1606098885654" duration="2953000" />
+      <workItem from="1608171865601" duration="4743000" />
     </task>
     <task id="LOCAL-00001" summary="17">
       <created>1599291644422</created>
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605147288683</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="新增题目">
+      <created>1606117178732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117178732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +211,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="17" />
     <MESSAGE value="增加了一个数组的题目" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了一个数组的题目" />
+    <MESSAGE value="新增题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增题目" />
   </component>
 </project>
