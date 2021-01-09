@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  * @classname BuyStock_1
- * @description：类的描述
+ * @description：只进行一次交易，求最大的收益
  * @author：dml
  * @date 2020/12/17 10:28
  * @version: 1.0

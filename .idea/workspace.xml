@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad99a69-1065-4baa-b68d-64c55436143f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/顺序刷题/WordPattern.java" afterDir="false" />
+    <list default="true" id="9ad99a69-1065-4baa-b68d-64c55436143f" name="Default Changelist" comment="增加了一个数组的题目">
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/BuyStock_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/顺序刷题/OnlyOneWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/顺序刷题/BuyStock_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/顺序刷题/BuyStock_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/顺序刷题/BuyStock_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/顺序刷题/BuyStock_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,7 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/顺序刷题/BuyStock_2.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/10.斐波那契数列.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/17.打印从1到最大的n位数.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/剑指offer/11.旋转数组中的最小数字.java" root0="SKIP_INSPECTION" />
@@ -71,7 +75,46 @@
     <property name="project.structure.side.proportion" value="0.2724434" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
-  <component name="RunManager" selected="Application.WordPattern">
+  <component name="RunManager" selected="Application.BuyStock_3">
+    <configuration name="BuyStock_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序刷题.BuyStock_2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序刷题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyStock_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序刷题.BuyStock_3" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序刷题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlyOneWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序刷题.OnlyOneWord" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序刷题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="顺序刷题.TestComparator" />
       <module name="LeetCode" />
@@ -98,52 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibnaqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.fibnaqi" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.solution15" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="剑指offer.solution17" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="剑指offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuyStock_3" />
+        <item itemvalue="Application.BuyStock_2" />
+        <item itemvalue="Application.OnlyOneWord" />
         <item itemvalue="Application.WordPattern" />
         <item itemvalue="Application.TestComparator" />
-        <item itemvalue="Application.solution17" />
-        <item itemvalue="Application.solution15" />
-        <item itemvalue="Application.fibnaqi" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +173,10 @@
       <workItem from="1606098885654" duration="2894000" />
       <workItem from="1606121607081" duration="55000" />
       <workItem from="1608105341904" duration="2922000" />
+      <workItem from="1608693274331" duration="2503000" />
+      <workItem from="1609139130915" duration="6201000" />
+      <workItem from="1609294456041" duration="692000" />
+      <workItem from="1610174409938" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="17">
       <created>1599291644422</created>
@@ -191,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605147288683</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加了一个数组的题目">
+      <created>1608693320307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608693320307</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,21 +230,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加了一个数组的题目" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1869" height="268" key="GridCell.Tab.0.bottom" timestamp="1608106315232">
-      <screen x="-294" y="-1080" width="1920" height="1040" />
+    <state width="1869" height="232" key="GridCell.Tab.0.bottom" timestamp="1608693721813">
+      <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state width="1869" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-294.-1080.1920.1040@-294.-1080.1920.1040" timestamp="1608106315232" />
-    <state width="1869" height="268" key="GridCell.Tab.0.center" timestamp="1608106315232">
-      <screen x="-294" y="-1080" width="1920" height="1040" />
+    <state width="1869" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1608693721813" />
+    <state width="1869" height="232" key="GridCell.Tab.0.center" timestamp="1608693721811">
+      <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state width="1869" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-294.-1080.1920.1040@-294.-1080.1920.1040" timestamp="1608106315232" />
-    <state width="1869" height="268" key="GridCell.Tab.0.left" timestamp="1608106315232">
-      <screen x="-294" y="-1080" width="1920" height="1040" />
+    <state width="1869" height="232" key="GridCell.Tab.0.center/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1608693721811" />
+    <state width="1869" height="232" key="GridCell.Tab.0.left" timestamp="1608693721809">
+      <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state width="1869" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-294.-1080.1920.1040@-294.-1080.1920.1040" timestamp="1608106315232" />
-    <state width="1869" height="268" key="GridCell.Tab.0.right" timestamp="1608106315232">
-      <screen x="-294" y="-1080" width="1920" height="1040" />
+    <state width="1869" height="232" key="GridCell.Tab.0.left/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1608693721809" />
+    <state width="1869" height="232" key="GridCell.Tab.0.right" timestamp="1608693721813">
+      <screen x="1366" y="-318" width="1920" height="1040" />
     </state>
     <state width="1869" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-294.-1080.1920.1040@-294.-1080.1920.1040" timestamp="1608106315232" />
+    <state width="1869" height="232" key="GridCell.Tab.0.right/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1608693721813" />
+    <state x="258" y="55" key="MergeDialog" timestamp="1608693528210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="55" key="MergeDialog/0.0.1366.728/1366.-318.1920.1040@0.0.1366.728" timestamp="1608693528210" />
+    <state x="537" y="202" width="558" height="323" key="MultipleFileMergeDialog" timestamp="1608693528227">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="202" width="558" height="323" key="MultipleFileMergeDialog/0.0.1366.728/1366.-318.1920.1040@0.0.1366.728" timestamp="1608693528227" />
+    <state x="3936" y="223" key="VCS.ChangelistChooser" timestamp="1609142446332">
+      <screen x="3286" y="-179" width="1680" height="1010" />
+    </state>
+    <state x="3936" y="223" key="VCS.ChangelistChooser/0.0.1366.728/1366.-318.1920.1040/3286.-179.1680.1010@3286.-179.1680.1010" timestamp="1609142446332" />
+    <state x="1612" y="-271" key="Vcs.Push.Dialog.v2" timestamp="1608693567375">
+      <screen x="1366" y="-318" width="1920" height="1040" />
+    </state>
+    <state x="175" y="33" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@0.0.1366.728" timestamp="1608693478605" />
+    <state x="1612" y="-271" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-318.1920.1040@1366.-318.1920.1040" timestamp="1608693567375" />
+    <state x="3861" y="220" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609142375474">
+      <screen x="3286" y="-179" width="1680" height="1010" />
+    </state>
+    <state x="3861" y="220" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-318.1920.1040/3286.-179.1680.1010@3286.-179.1680.1010" timestamp="1609142375474" />
+    <state x="1845" y="-314" width="960" height="1038" key="search.everywhere.popup" timestamp="1610205411427">
+      <screen x="1366" y="-314" width="1920" height="1040" />
+    </state>
+    <state x="1845" y="-314" width="960" height="1038" key="search.everywhere.popup/0.0.1366.728/1366.-314.1920.1040/3286.-314.1680.1010@1366.-314.1920.1040" timestamp="1610205411427" />
+    <state x="3705" y="-179" width="840" height="1008" key="search.everywhere.popup/0.0.1366.728/1366.-318.1920.1040/3286.-179.1680.1010@3286.-179.1680.1010" timestamp="1609145527228" />
   </component>
 </project>
